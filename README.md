@@ -64,6 +64,50 @@
 
 先修改账号密码，再重置订阅链接。旧链接会立即失效，然后在自己的每台设备上导入新链接。
 
+## 完整使用教程
+
+下面是 SpiritFox 控制台「使用教程」里的全部文章，从装应用到排错、账号安全都有。
+
+### 开始使用
+
+- [三步用起来](%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B/1-%E5%BC%80%E5%A7%8B%E4%BD%BF%E7%94%A8/01-setup.md)
+- [校园网连接建议](%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B/1-%E5%BC%80%E5%A7%8B%E4%BD%BF%E7%94%A8/02-g-campus.md)
+- [iPhone 和 iPad 怎么装上应用](%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B/1-%E5%BC%80%E5%A7%8B%E4%BD%BF%E7%94%A8/03-g-ios-apple-id.md)
+- [家庭网络使用建议](%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B/1-%E5%BC%80%E5%A7%8B%E4%BD%BF%E7%94%A8/04-g-home-devices.md)
+
+### 网络设置
+
+- [连不上、很卡：按这个顺序查](%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B/2-%E7%BD%91%E7%BB%9C%E8%AE%BE%E7%BD%AE/01-troubleshoot.md)
+- [IPv6 优先：我们的线路为什么这样设计](%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B/2-%E7%BD%91%E7%BB%9C%E8%AE%BE%E7%BD%AE/02-g-ipv6.md)
+- [家里的路由器怎么打开 IPv6](%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B/2-%E7%BD%91%E7%BB%9C%E8%AE%BE%E7%BD%AE/03-g-router-ipv6.md)
+- [线路是怎么走的：延迟、丢包和晚高峰](%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B/2-%E7%BD%91%E7%BB%9C%E8%AE%BE%E7%BD%AE/04-network.md)
+- [网址打不开：DNS 劫持、污染和清缓存](%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B/2-%E7%BD%91%E7%BB%9C%E8%AE%BE%E7%BD%AE/05-g-dns.md)
+- [设备时间要准](%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B/2-%E7%BD%91%E7%BB%9C%E8%AE%BE%E7%BD%AE/06-g-device-clock.md)
+
+### 流媒体和 AI 应用
+
+- [流媒体和 AI 应用：怎么挑节点](%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B/3-%E6%B5%81%E5%AA%92%E4%BD%93%E5%92%8C%20AI%20%E5%BA%94%E7%94%A8/01-streaming.md)
+- [服务方怎么判断你在哪里](%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B/3-%E6%B5%81%E5%AA%92%E4%BD%93%E5%92%8C%20AI%20%E5%BA%94%E7%94%A8/02-region-signals.md)
+
+### 账号安全
+
+- [订阅地址就是你的钥匙](%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B/4-%E8%B4%A6%E5%8F%B7%E5%AE%89%E5%85%A8/01-g-subscription-link.md)
+- [识别假网站和假消息](%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B/4-%E8%B4%A6%E5%8F%B7%E5%AE%89%E5%85%A8/02-g-fake-sites.md)
+- [主流网站为什么总要人机验证](%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B/4-%E8%B4%A6%E5%8F%B7%E5%AE%89%E5%85%A8/03-g-sign-in-checks.md)
+- [隐私：我们记什么，不记什么](%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B/4-%E8%B4%A6%E5%8F%B7%E5%AE%89%E5%85%A8/04-privacy.md)
+
+### 日常使用
+
+- [规则模式：哪些直连，哪些走线路](%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B/5-%E6%97%A5%E5%B8%B8%E4%BD%BF%E7%94%A8/01-g-direct-or-connection.md)
+- [节点出问题时会怎样](%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B/5-%E6%97%A5%E5%B8%B8%E4%BD%BF%E7%94%A8/02-g-reliable-service.md)
+
+### 常见问题
+
+- [账号、套餐和流量](%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B/6-%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98/01-account.md)
+- [应用和连接](%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B/6-%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98/02-apps.md)
+
+English version: see the [en](en) folder.
+
 ---
 
 ## 关于 SpiritFox
