@@ -118,3 +118,6 @@ English version: see the [en](en) folder.
 
 - 官网：<https://spiritfox.app/zh/>
 - 完整帮助：<https://spiritfox.app/zh/help.html>
+- YouTube：<https://www.youtube.com/@nodeyang4u>
+- X：<https://x.com/NodeYeoh>
+- Instagram：<https://www.instagram.com/spiritfox.app/>
